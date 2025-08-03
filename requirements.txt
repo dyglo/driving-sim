@@ -1,0 +1,14 @@
+# Core dependencies for self-driving car simulation
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+
+# Optional but recommended for better performance
+torch>=2.0.0
+torchvision>=0.15.0
+
+# For video processing
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.8

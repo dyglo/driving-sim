@@ -1,0 +1,6 @@
+# Add these lines to .gitignore
+*.mp4
+*.avi
+*.mov
+output/
+videos/
